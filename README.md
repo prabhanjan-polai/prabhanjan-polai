@@ -3,7 +3,12 @@
 Detail-oriented and resilient MERN Stack Developer with a strong emphasis on backend development using Node.js and Express.js. Experienced in building scalable web applications, integrating RESTful APIs, and implementing secure authentication workflows. Passionate about delivering full-stack solutions with clean architecture, responsive UI, and robust server-side logic.
 
 ---
-
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express.js"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+</p>
 ## 🛠️ Technical Skills
 
 - **Frontend:** React.js, HTML, CSS, JavaScript (ES6+), Next.js  
@@ -13,6 +18,13 @@ Detail-oriented and resilient MERN Stack Developer with a strong emphasis on bac
 - **Templating:** EJS (for server-side rendering)  
 - **Version Control:** Git, GitHub  
 - **IDEs:** VS Code, PyCharm, Corser  
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express.js"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+</p>
 
 ---
 
@@ -80,3 +92,4 @@ Feel free to connect or collaborate!
 ---
 
 > _“Code with clarity. Build with purpose. Deliver with impact.”_
+
