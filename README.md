@@ -1,4 +1,4 @@
-![MasterHead](https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif)
+
 <h1 align="center">Hi 👋, I'm Prabhanjan Polai</h1>
 <h3 align="center">A passionate FULLSTACK Web developer from India</h3>
 # 👨‍💻 Prabhanjan – MERN Stack Developer
@@ -91,5 +91,6 @@ Feel free to connect or collaborate!
 ---
 
 > _“Code with clarity. Build with purpose. Deliver with impact.”_
+
 
 
